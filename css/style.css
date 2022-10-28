@@ -1,0 +1,58 @@
+.header .wrapper
+{
+width:80%;
+margin:auto;
+}
+.banner .wrapper
+{
+width:80%;
+margin:auto;
+}
+.copyright .wrapper
+{
+width:80%;
+margin:auto;
+}
+
+.header
+{
+	background-color:darkviolet;
+	height:75px;
+}
+.banner
+{
+	background-color:darkturquoise;
+	height:391px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:100px;
+	flex-wrap:wrap;
+	text-align:center;
+}
+.banner .banner-fc .boxA
+{
+	background-color:fuchsia;
+	height:113px;
+	width:580px;
+	text-align:center;
+	margin-bottom:30px;
+	margin-left:60px;
+	margin-right:160px;
+}
+.banner .banner-fc .boxB
+{
+	background-color:greenyellow;
+	height:62px;
+	width:175px;
+	text-align:center;
+	margin-left:100px;
+	margin-right:160px;
+}
+.copyright
+{
+	background-color:lightblue;
+	height:138px;
+}
