@@ -32,7 +32,7 @@ margin:auto;
 	flex-wrap:wrap;
 	text-align:center;
 }
-.banner .banner-fc .boxA
+.banner .banner-fc .boxa
 {
 	background-color:fuchsia;
 	height:113px;
@@ -42,7 +42,7 @@ margin:auto;
 	margin-left:60px;
 	margin-right:160px;
 }
-.banner .banner-fc .boxB
+.banner .banner-fc .boxb
 {
 	background-color:greenyellow;
 	height:62px;
